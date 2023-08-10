@@ -20,4 +20,4 @@ imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output
 2. from inside the docker run this command cd python/training/classification/
 3. then run this command to run your testing imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/cheesecake/[input file] [output file]
 4. 
-[View a video explanation here](video link)
+[View a video explanation here]([video link](https://youtu.be/wEpcCA-oV9E)https://youtu.be/wEpcCA-oV9E)
