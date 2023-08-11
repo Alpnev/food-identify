@@ -1,4 +1,4 @@
-#AI Rhar identifies pics of food
+# AI Rhar identifies pics of food
 
 ## The Algorithm
 
