@@ -1,10 +1,4 @@
-# Project Name AI Rhar identifies pics of food
-
-The Ai is made to identify diffrent foods
-
-(https://github.com/Alpnev/food-identify/assets/141777906/cce2fdd7-4b40-4f64-a203-b3a682d1a2d7)
-
-
+#AI Rhar identifies pics of food
 
 ## The Algorithm
 
