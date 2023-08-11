@@ -14,3 +14,6 @@ imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output
 3. then run this command to run your testing imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/cheesecake/[input file] [output file]
 
 (https://youtu.be/wEpcCA-oV9E)https://youtu.be/wEpcCA-oV9E)
+
+![image](https://github.com/Alpnev/food-identify/assets/141777906/9920d844-55a7-490d-876d-7f6a43bd4924)
+
